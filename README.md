@@ -8,6 +8,6 @@
 </a>
 </p>
 
-<p align="center">
-  I love coding 
-</p>
+<h3 align="center">
+  Tidak Ada kata menyerah selama belum ERROR
+</h3>
