@@ -47,8 +47,12 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=12&pause=10000&color=39FF14&background=000000&center=true&vCenter=true&width=600&lines=PRESS+START+TO+SEND+MESSAGE..." alt="Footer Text" />
 <br>
-<a href="mailto:email.kamu.disini@gmail.com">
+
+<a href="mailto:105841101824@student.unismuh.ac.id">
   <img src="https://img.shields.io/badge/CONTACT_PLAYER-000000?style=for-the-badge&logo=minutemailer&logoColor=39FF14">
+</a>
+<a href="https://instagram.com/ahmadd.ai" target="_blank">
+  <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=39FF14">
 </a>
 
 </div>
