@@ -12,7 +12,9 @@
 <br>
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=15&pause=10000&color=39FF14&background=000000&center=false&vCenter=true&width=600&lines=>+CLASS:+FULL-STACK+DEVELOPER..." alt="Terminal Line 4" />
 <br>
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=15&pause=10000&color=39FF14&background=000000&center=false&vCenter=true&width=600&lines=>+CURRENT+QUEST:+BUILDING+APPS..." alt="Terminal Line 5" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=15&pause=10000&color=39FF14&background=000000&center=false&vCenter=true&width=600&lines=>+SUB-CLASS:+UI+DESIGNER..." alt="Terminal Line 5" />
+<br>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=15&pause=10000&color=39FF14&background=000000&center=false&vCenter=true&width=600&lines=>+CURRENT+QUEST:+BUILDING+APPS..." alt="Terminal Line 6" />
 
 <br><br>
 
@@ -28,6 +30,7 @@
 <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26">
 <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6">
 <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032">
+<img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E">
 
 <br><br>
 
