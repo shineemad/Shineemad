@@ -32,7 +32,8 @@
 <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032">
 <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E">
 
-<br><br>
+<br>
+<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=18&pause=10000&color=39FF14&background=000000&center=true&vCenter=true&width=600&lines=>+[+PLAYER+STATS+]+<" alt="Stats Header" />
 
