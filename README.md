@@ -55,7 +55,7 @@
 <a href="mailto:105841101824@student.unismuh.ac.id">
   <img src="https://img.shields.io/badge/CONTACT_PLAYER-000000?style=for-the-badge&logo=minutemailer&logoColor=39FF14">
 </a>
-<a href="https://instagram.com/ahmadd.ai" target="_blank">
+<a href="https://instagram.com/ahmadd.dev" target="_blank">
   <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=39FF14">
 </a>
 
