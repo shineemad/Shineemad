@@ -42,7 +42,7 @@
 <br><br>
 <img src="https://streak-stats.demolab.com/?user=Shineemad&background=000000&stroke=000000&ring=39FF14&fire=39FF14&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=39FF14&sideLabels=ffffff&dates=ffffff&hide_border=true&custom_title=COMBO%20COUNTER" alt="GitHub Streak" />
 
-<br><br><br>
+<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=12&pause=10000&color=39FF14&background=000000&center=true&vCenter=true&width=600&lines=PRESS+START+TO+SEND+MESSAGE..." alt="Footer Text" />
 <br><br>
